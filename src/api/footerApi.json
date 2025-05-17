@@ -1,0 +1,18 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Guwahati, Assam"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9876543211"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@cosmofeed.com"
+    }
+  ]
+  
