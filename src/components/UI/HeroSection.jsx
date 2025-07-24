@@ -21,7 +21,7 @@ export const HeroSection = () => {
                     </div>
                     <div className="hero-image">
                         <img
-                            src="./public/globe.jpg"
+                            src="https://media.istockphoto.com/id/172248581/photo/earth-and-moon.jpg?s=612x612&w=0&k=20&c=HVu_JuMcDhEGubM99Vj1yKxl9Nz23iNMShHZXP1eS1E="
                             alt="world is beautiful"
                             className="banner-image"
                         />
